@@ -9,6 +9,7 @@
     "paths": {
       "@/*": ["./src/*"],
       "@shadcn/ui/*": ["node_modules/@shadcn/ui/*"]
-    }
+    },
+    "typeRoots": ["./src/@types", "./node_modules/@types"]
   }
 }

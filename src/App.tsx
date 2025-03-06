@@ -1,6 +1,4 @@
-import "./App.css";
-import Button from "@shadcn/ui/button";
-
+import "./App.css"; // Updated to default import
 
 function App() {
   return (
