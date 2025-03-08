@@ -1,5 +1,4 @@
 import "./App.css"; // Updated to default import
-import "./App.css";
 import { Button } from "./components/ui/button";
 
 
